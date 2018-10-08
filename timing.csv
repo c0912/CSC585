@@ -1,0 +1,87 @@
+Order,Trial,Phase,Phase name for PRT,Length,TimeOnset,TimeOffset
+1,,fixation,fixationstimulus2,2000,0,2000
+2,,Instructions1,Intro1 ,6000,2001,8000
+3,,Instructions2,Intro2 ,6000,8001,14000
+4,,Instructions3,Intro3,6000,14001,20000
+5,,Instructions4,Intro4,4000,20001,24000
+6,,Instructions 5,Intro5,12000,24001,36000
+7,,Instructions 6,Intro6,6000,36001,42000
+8,,Instructions 7,Intro7,4000,42001,46000
+9,,Instructions 8,Intro8,12000,46001,58000
+10,,Instructions 9,Intro9,6000,58001,64000
+11,,Instructions 10,Intro10,20000,64001,84000
+12,,fixation,fixationstimulus3,4000,84001,88000
+13,,Instructions 11,intro11,6000,88001,94000
+14,,Instructions 12,intro12,6000,94001,100000
+15,,Instruction 13,intro13,4000,100001,104000
+16,,Instructions 14,intro14,20000,104001,124000
+17,,Instructions 15,intro15,12000,124001,136000
+18,,Instructions 16,intro16,4000,136001,140000
+19,,Instructions 17,intro17,14000,140001,154000
+20,,Instructions 18,intro18,6000,154001,160000
+21,,Instructions 19,intro19,20000,160001,180000
+22,,fixation,fixationstimulus4,1000,180001,181000
+23,,Introduction20,intro20,4000,181001,185000
+24,,Introduction21,intro21,4000,185001,189000
+25,,Intruction22,intro22,8000,189001,197000
+26,,Intruction23,intro23,2000,197001,199000
+27,,trial_display,trial1,2000,199001,201000
+28,,tial_choice,trialchoice1,2000,201001,203000
+29,,feedback_trial,feedbacktrialchoice1,2000,203001,205000
+30,,trial_display,trial1,2000,205001,207000
+31,,tial_choice,trialchoice1,2000,207001,209000
+32,,feedback_trial,feedbacktrialchoice1,2000,209001,211000
+33,,fixation,fixationstimulus5,6000,211001,217000
+34,,start_task,startrealt,4000,217001,221000
+35,1,fixation,fixationstimulus,2000,221001,223000
+36,1,stimuli,stimuli,2000,223001,225000
+37,1,compare,songcompare,12000,225001,237000
+38,1,choice,choice,2000,237001,239000
+39,1,feedback,feedback,2000,239001,241000
+40,2,fixation,fixationstimulus,4000,241001,245000
+41,2,stimuli,stimuli,2000,245001,247000
+42,2,compare,songcompare,12000,247001,259000
+43,2,choice,choice,2000,259001,261000
+44,2,feedback,feedback,2000,261001,263000
+45,3,fixation,fixationstimulus,2000,263001,265000
+46,3,stimuli,stimuli,2000,265001,267000
+47,3,compare,songcompare,12000,267001,279000
+48,3,choice,choice,2000,279001,281000
+49,3,feedback,feedback,2000,281001,283000
+50,4,fixation,fixationstimulus,6000,283001,289000
+51,4,stimuli,stimuli,2000,289001,291000
+52,4,compare,songcompare,12000,291001,303000
+53,4,choice,choice,2000,303001,305000
+54,4,feedback,feedback,2000,305001,307000
+55,5,fixation,fixationstimulus,4000,307001,311000
+56,5,stimuli,stimuli,2000,311001,313000
+57,5,compare,songcompare,12000,313001,325000
+58,5,choice,choice,2000,325001,327000
+59,5,feedback,feedback,2000,327001,329000
+60,6,fixation,fixationstimulus,8000,329001,337000
+61,6,stimuli,stimuli,2000,337001,339000
+62,6,compare,songcompare,12000,339001,351000
+63,6,choice,choice,2000,351001,353000
+64,6,feedback,feedback,2000,353001,355000
+65,7,fixation,fixationstimulus,2000,355001,357000
+66,7,stimuli,stimuli,2000,357001,359000
+67,7,compare,songcompare,12000,359001,371000
+68,7,choice,choice,2000,371001,373000
+69,7,feedback,feedback,2000,373001,375000
+70,8,fixation,fixationstimulus,2000,375001,377000
+71,8,stimuli,stimuli,2000,377001,379000
+72,8,compare,songcompare,12000,379001,391000
+73,8,choice,choice,2000,391001,393000
+74,8,feedback,feedback,2000,393001,395000
+75,9,fixation,fixationstimulus,2000,395001,397000
+76,9,stimuli,stimuli,2000,397001,399000
+77,9,compare,songcompare,12000,399001,411000
+78,9,choice,choice,2000,411001,413000
+79,9,feedback,feedback,2000,413001,415000
+80,10,fixation,fixationstimulus,2000,415001,417000
+81,10,stimuli,stimuli,2000,417001,419000
+82,10,compare,songcompare,12000,419001,431000
+83,10,choice,choice,2000,431001,433000
+84,10,feedback,feedback,2000,433001,435000
+85,,fixation,fixationstimulus6,2000,435001,437000
+86,,Goodbye,thankyou,4000,437001,441000

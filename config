@@ -1,0 +1,14 @@
+Experiment Name: EVG
+Number of Subjects: 46
+Number of Functional Volumes: 441
+Functional Slices: 
+matrix_x: 
+matrix_y: 
+slice_x: 
+slice_y: 
+Number of Anatomical Volumes: 192
+Choice of Interest Labels: 
+Phase of Interest Labels: fixation, stimuli, compare, choice, feedback
+Temporal Resolution: 1000
+Number of Choices: 10
+Brodmann Areas: Thalamus, Amygdala, Hippocampus

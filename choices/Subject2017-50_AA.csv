@@ -1,0 +1,18 @@
+SubjectName,SubjectNr,TrialList,JPEG shown,choice.RESP
+Subject2017-50_AA,5000,1,t1songcompare.jpg,1
+Subject2017-50_AA,5000,2,t1gamecompare.jpg,1
+Subject2017-50_AA,5000,3,t2songcompare.jpg,1
+Subject2017-50_AA,5000,4,t3songcompare.jpg,4
+Subject2017-50_AA,5000,5,t2gamecompare.jpg,1
+Subject2017-50_AA,5000,6,t4songcompare.jpg,1
+Subject2017-50_AA,5000,7,t3gamecompare.jpg,4
+Subject2017-50_AA,5000,8,t4gamecompare.jpg,1
+Subject2017-50_AA,5000,9,t5songcompare.jpg,1
+Subject2017-50_AA,5000,10,t5gamecompare.jpg,1
+,,,,
+,,,,
+Subject:,5000,,,
+SessionDate:,5/8/2017,,,
+SessionTime:,9:51:15,,,
+RandomSeed: ,-1193078672,,,
+Group:,1,,,
